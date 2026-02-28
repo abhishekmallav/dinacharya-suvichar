@@ -12,13 +12,6 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 
 
-> ### Learn to grow with what each season brings.
-> *- Aditya Ajmera*
->
-> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
-
-
-
 > ### Sad story always end up with a happy ending. Wrong choices end up with a lesson as your tool in life.
 > *- Napz Cherub Pellazo*
 >
