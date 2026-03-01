@@ -2,8 +2,7 @@ name: Daily Quote & Commits
 
 on:
   schedule:
-    - cron: '0 0 * * *'  
-    # 7:00 AM IST = 1:30 AM UTC
+    - cron: '30 3 * * *'  
   workflow_dispatch:        
   # for manual trigger
 
