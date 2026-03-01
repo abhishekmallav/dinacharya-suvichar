@@ -23,7 +23,7 @@ for i in $(seq 1 $((NUM-1))); do
     DOT="${DOT} ●"
     echo "${DOT}" > "$TMP"
     git add "$TMP"
-    git commit -m "committed (${DOT})"
+    git commit -m "committed (${DOT} )"
 done
 
 LINE="[$NUM] $DOT ●"
