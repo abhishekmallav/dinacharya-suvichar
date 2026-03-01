@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Freedom seeking is the path to coming alive again.
+> *- Beth Kempton*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Learn to grow with what each season brings.
 > *- Aditya Ajmera*
 >
