@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Freedom is the willingness and ability to choose your own path and experience your life as your true self.
+> *- Beth Kempton*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Freedom seeking is the path to coming alive again.
 > *- Beth Kempton*
 >
