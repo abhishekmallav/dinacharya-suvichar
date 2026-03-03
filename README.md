@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### We all have the innate capacity to feel free.
+> *- Beth Kempton*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Freedom is the willingness and ability to choose your own path and experience your life as your true self.
 > *- Beth Kempton*
 >
