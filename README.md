@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you can choose your way into a cage, you can choose your way out.
+> *- Beth Kempton*
+>
+> `[14]  ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### We all have the innate capacity to feel free.
 > *- Beth Kempton*
 >
