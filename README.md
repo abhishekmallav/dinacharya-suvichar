@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### While you cannot always change your situation, you can always change the way you respond to it.
+> *- Beth Kempton*
+>
+> `[15]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If you can choose your way into a cage, you can choose your way out.
 > *- Beth Kempton*
 >
