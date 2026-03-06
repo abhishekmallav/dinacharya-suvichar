@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If the wind brushes against you, do not complain; it brushes against everyone.
+> *- Matshona Dhliwayo*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### While you cannot always change your situation, you can always change the way you respond to it.
 > *- Beth Kempton*
 >
