@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The sun and stars never apologize for shinning
+> *- neither should you.*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If the wind brushes against you, do not complain; it brushes against everyone.
 > *- Matshona Dhliwayo*
 >
