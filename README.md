@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You were not born to impress the world, but to impress the universe.
+> *- Matshona Dhliwayo*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### The sun and stars never apologize for shinning
 > *- neither should you.*
 >
