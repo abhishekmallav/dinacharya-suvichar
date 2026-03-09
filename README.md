@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Prayer is the best way to hug those who are far away.
+> *- Matshona Dhliwayo*
+>
+> `[12]  ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### You were not born to impress the world, but to impress the universe.
 > *- Matshona Dhliwayo*
 >
