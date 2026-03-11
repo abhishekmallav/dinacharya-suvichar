@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### There is no greater prize than a quiet, peaceful mind.
+> *- Rasheed Ogunlaru*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Let the love not escape from within.
 > *- Suchet chaturvedi*
 >
