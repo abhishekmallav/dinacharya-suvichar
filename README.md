@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The journey of the Freedom Seeker isn’t always easy. But it is essential, and it is urgent, for it is the path to coming alive again.
+> *- Beth Kempton*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### There is no greater prize than a quiet, peaceful mind.
 > *- Rasheed Ogunlaru*
 >
