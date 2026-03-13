@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Notice how extraordinary your life truly is. It’s filled with love. Open your heart to it.
+> *- Amy Leigh Mercree*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### The journey of the Freedom Seeker isn’t always easy. But it is essential, and it is urgent, for it is the path to coming alive again.
 > *- Beth Kempton*
 >
