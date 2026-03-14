@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you take society’s definition of knowing oneself, you will become lost in the many translations.
+> *- Grace Sara*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Notice how extraordinary your life truly is. It’s filled with love. Open your heart to it.
 > *- Amy Leigh Mercree*
 >
