@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The universe does not shed tears when a star falls from the sky
+> *- it gives birth to another one.*
+>
+> `[12]  ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If you take society’s definition of knowing oneself, you will become lost in the many translations.
 > *- Grace Sara*
 >
