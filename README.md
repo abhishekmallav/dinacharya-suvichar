@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Having something is not always better than not having it.
+> *- Beth Kempton*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### The universe does not shed tears when a star falls from the sky
 > *- it gives birth to another one.*
 >
