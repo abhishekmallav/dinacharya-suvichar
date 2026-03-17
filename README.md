@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When you compete, you gain more than you lose, even when you lose.
+> *- Aaron Lauritsen*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Having something is not always better than not having it.
 > *- Beth Kempton*
 >
