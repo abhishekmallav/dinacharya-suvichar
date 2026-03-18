@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It’s dangerous to be grateful for the cage that traps you.
+> *- Beth Kempton*
+>
+> `[19]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### When you compete, you gain more than you lose, even when you lose.
 > *- Aaron Lauritsen*
 >
