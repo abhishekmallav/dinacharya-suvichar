@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Don't dwell too long on the past, forgive and let it go. Too many hours have been wasted on old regrets and sorrow.
+> *- Atalina Wright*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### It’s dangerous to be grateful for the cage that traps you.
 > *- Beth Kempton*
 >
