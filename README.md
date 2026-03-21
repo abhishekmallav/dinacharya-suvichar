@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Love cannot be contained, love is destined to transcend and change.
+> *- Atalina Wright*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Wonder is all around us, when we know how to look. It's often in the simple spaces; a meadow, a stream, an unturned rock.
 > *- Atalina Wright*
 >
