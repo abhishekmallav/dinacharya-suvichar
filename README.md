@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### We only have one life and two choices: sadness and regret for a past we cannot change or happiness for every moment we can choose how to live.
+> *- Marino Baccarini*
+>
+> `[17]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Love cannot be contained, love is destined to transcend and change.
 > *- Atalina Wright*
 >
