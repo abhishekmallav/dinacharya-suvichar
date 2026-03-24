@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Every piece of you is a living library of creation. The deeper I look, the more I see.
+> *- Atalina Wright*
+>
+> `[12]  ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### You played my heart as it was meant to be played, a little, then all at once.
 > *- Atalina Wright*
 >
