@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I am joyfully one with all existence.
+> *- Amy Leigh Mercree*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Every piece of you is a living library of creation. The deeper I look, the more I see.
 > *- Atalina Wright*
 >
