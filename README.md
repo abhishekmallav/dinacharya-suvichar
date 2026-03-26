@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Being sensitive is a gift that fosters peace. Help create a kinder, gentler world by embracing it.
+> *- Amy Leigh Mercree*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### I am joyfully one with all existence.
 > *- Amy Leigh Mercree*
 >
