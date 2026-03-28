@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When they slam a door on your face, it's life, adding another 110 lb plate to your bar and telling you: "Let's see how strong you are".
+> *- Marino Baccarini*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Love comforteth like sunshine after rain.
 > *- William Shakespeare*
 >
