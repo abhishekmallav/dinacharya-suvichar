@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I trust life and live deep bliss and comfort in each moment.
+> *- Amy Leigh Mercree*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### When they slam a door on your face, it's life, adding another 110 lb plate to your bar and telling you: "Let's see how strong you are".
 > *- Marino Baccarini*
 >
