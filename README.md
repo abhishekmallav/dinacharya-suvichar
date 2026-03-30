@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Every peak and valley of your life has led you to deeper understanding and, ultimately, growing compassion.
+> *- Amy Leigh Mercree*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I trust life and live deep bliss and comfort in each moment.
 > *- Amy Leigh Mercree*
 >
