@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### We are all the same being. Union is the true reality of existence.
+> *- Amy Leigh Mercree*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Embrace the sweetness of life like a gift honeycomb from the hive.
 > *- Amy Leigh Mercree*
 >
