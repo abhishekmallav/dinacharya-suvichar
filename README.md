@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### In every moment of our life, we can deactivate the self-destruction command.
+> *- Marino Baccarini*
+>
+> `[17]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### We are all the same being. Union is the true reality of existence.
 > *- Amy Leigh Mercree*
 >
