@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Every kind word or action has an equal reaction. What you put out comes back to you. Why not make it caring and joyful?
+> *- Amy Leigh Mercree*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### In every moment of our life, we can deactivate the self-destruction command.
 > *- Marino Baccarini*
 >
