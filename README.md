@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Be brave and create the life of your dreams. Dare to strive for the spectacular.
+> *- Amy Leigh Mercree*
+>
+> `[11]  ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Every kind word or action has an equal reaction. What you put out comes back to you. Why not make it caring and joyful?
 > *- Amy Leigh Mercree*
 >
