@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Tell the story of your life with grace and candor. Sharing your wisdom helps others and delivers deep satisfaction.
+> *- Amy Leigh Mercree*
+>
+> `[12]  ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Be brave and create the life of your dreams. Dare to strive for the spectacular.
 > *- Amy Leigh Mercree*
 >
