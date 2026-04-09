@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I embrace every day as an opportunity to live fully and with total heart!
+> *- Amy Leigh Mercree*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Nowadays, nobody can teach you a useful thing about life, since models are outdated one moment after.
 > *- Marino Baccarini*
 >
