@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Every day could be your last, so share your love far and wide with everyone you adore.
+> *- Amy Leigh Mercree*
+>
+> `[14]  ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I embrace every day as an opportunity to live fully and with total heart!
 > *- Amy Leigh Mercree*
 >
