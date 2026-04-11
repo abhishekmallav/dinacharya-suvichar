@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I am one with all life. I am connected to all the goodness in all the universe.
+> *- Amy Leigh Mercree*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Every day could be your last, so share your love far and wide with everyone you adore.
 > *- Amy Leigh Mercree*
 >
