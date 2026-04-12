@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Nature offers splendor and artistry for us to appreciate. Opening our senses reveals we are surrounded by magnificence.
+> *- Amy Leigh Mercree*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I am one with all life. I am connected to all the goodness in all the universe.
 > *- Amy Leigh Mercree*
 >
