@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Extraordinary wonder and joy are woven through ordinary life. Hunt for them relentlessly.
+> *- Amy Leigh Mercree*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Nature offers splendor and artistry for us to appreciate. Opening our senses reveals we are surrounded by magnificence.
 > *- Amy Leigh Mercree*
 >
