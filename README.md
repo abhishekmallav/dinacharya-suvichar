@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You never know whose tough day you will brighten with a few kind words. Tweet your positivity today!
+> *- Amy Leigh Mercree*
+>
+> `[13]  ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Extraordinary wonder and joy are woven through ordinary life. Hunt for them relentlessly.
 > *- Amy Leigh Mercree*
 >
