@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Age is only a number. Maturity to a large extent is dependent on your exposure to life, its experiences and your lessons from them.
+> *- Omoakhuana Anthonia*
+>
+> `[11]  ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### You never know whose tough day you will brighten with a few kind words. Tweet your positivity today!
 > *- Amy Leigh Mercree*
 >
