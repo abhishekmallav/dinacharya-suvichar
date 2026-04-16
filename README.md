@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Cultivating daily calm, even for a few minutes, yields a core of centered wellness.
+> *- Amy Leigh Mercree*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Age is only a number. Maturity to a large extent is dependent on your exposure to life, its experiences and your lessons from them.
 > *- Omoakhuana Anthonia*
 >
