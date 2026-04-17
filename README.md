@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Unleash the force of bliss within you. Radiate your joy no matter what!
+> *- Amy Leigh Mercree*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Cultivating daily calm, even for a few minutes, yields a core of centered wellness.
 > *- Amy Leigh Mercree*
 >
