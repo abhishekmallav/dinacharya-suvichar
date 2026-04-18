@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It is imperative you stay in touch with your inner self so you don’t lose the essence of who you truly are.
+> *- Omoakhuana Anthonia*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Unleash the force of bliss within you. Radiate your joy no matter what!
 > *- Amy Leigh Mercree*
 >
