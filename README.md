@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Release the baggage of the past. Carry joy instead.
+> *- Amy Leigh Mercree*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### It is imperative you stay in touch with your inner self so you don’t lose the essence of who you truly are.
 > *- Omoakhuana Anthonia*
 >
