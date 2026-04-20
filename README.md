@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I share my love and gratefully accept love as it flows back to me.
+> *- Amy Leigh Mercree*
+>
+> `[20]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Release the baggage of the past. Carry joy instead.
 > *- Amy Leigh Mercree*
 >
