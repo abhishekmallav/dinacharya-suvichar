@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Giving from the heart lights a flame of kindness, forever illuminating your world.
+> *- Amy Leigh Mercree*
+>
+> `[13]  ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I share my love and gratefully accept love as it flows back to me.
 > *- Amy Leigh Mercree*
 >
