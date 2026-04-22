@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Our senses are the lavish gift of being human.
+> *- Amy Leigh Mercree*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Giving from the heart lights a flame of kindness, forever illuminating your world.
 > *- Amy Leigh Mercree*
 >
