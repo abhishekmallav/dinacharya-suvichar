@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I look for beauty every day and find it everywhere. My bliss in enhanced!
+> *- Amy Leigh Mercree*
+>
+> `[19]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Our senses are the lavish gift of being human.
 > *- Amy Leigh Mercree*
 >
