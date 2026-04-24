@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Find the beauty in situations where it is not obvious, and you will create voluminous joy in your life.
+> *- Amy Leigh Mercree*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I look for beauty every day and find it everywhere. My bliss in enhanced!
 > *- Amy Leigh Mercree*
 >
