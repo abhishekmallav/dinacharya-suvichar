@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I live a grateful life, and the result is pure joy and happiness.
+> *- Amy Leigh Mercree*
+>
+> `[15]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Find the beauty in situations where it is not obvious, and you will create voluminous joy in your life.
 > *- Amy Leigh Mercree*
 >
