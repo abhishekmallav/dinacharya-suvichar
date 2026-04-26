@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### There are endless ways to thank the people who have contributed to your life. Dole out thanks, and your life will bloom.
+> *- Amy Leigh Mercree*
+>
+> `[20]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I live a grateful life, and the result is pure joy and happiness.
 > *- Amy Leigh Mercree*
 >
