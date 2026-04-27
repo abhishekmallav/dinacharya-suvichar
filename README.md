@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The impact of your life will go beyond your imagination. Live your life to be a blessing.
+> *- TemitOpe Ibrahim*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### There are endless ways to thank the people who have contributed to your life. Dole out thanks, and your life will bloom.
 > *- Amy Leigh Mercree*
 >
