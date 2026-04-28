@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Love yourself like you would a treasured love or a cherished child.
+> *- Amy Leigh Mercree*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### The impact of your life will go beyond your imagination. Live your life to be a blessing.
 > *- TemitOpe Ibrahim*
 >
