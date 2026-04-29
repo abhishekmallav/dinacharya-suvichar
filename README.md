@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Loving spirits are with you every step of the way, cheering you on and offering help when they can. You are never alone.
+> *- Amy Leigh Mercree*
+>
+> `[15]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Love yourself like you would a treasured love or a cherished child.
 > *- Amy Leigh Mercree*
 >
