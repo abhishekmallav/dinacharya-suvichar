@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Let your fear dissolve and allow love to effervesce through your being. Be open to feeling good in this moment.
+> *- Amy Leigh Mercree*
+>
+> `[19]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Loving spirits are with you every step of the way, cheering you on and offering help when they can. You are never alone.
 > *- Amy Leigh Mercree*
 >
