@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Each day offers a reason to celebrate. Find it and experience true bliss.
+> *- Amy Leigh Mercree*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Let your fear dissolve and allow love to effervesce through your being. Be open to feeling good in this moment.
 > *- Amy Leigh Mercree*
 >
