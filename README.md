@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### In reality, everyone is unlimited. All limits are simply illusions. Understanding is the breeze that sweeps them away.
+> *- Amy Leigh Mercree*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Each day offers a reason to celebrate. Find it and experience true bliss.
 > *- Amy Leigh Mercree*
 >
