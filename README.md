@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Truth, at times is just an accepted opinion
+> *- santhosh Namballa*
+>
+> `[19]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### In reality, everyone is unlimited. All limits are simply illusions. Understanding is the breeze that sweeps them away.
 > *- Amy Leigh Mercree*
 >
