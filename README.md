@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The people we adore in our lives brighten our days and illuminate our nights.
+> *- Amy Leigh Mercree*
+>
+> `[11]  ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Truth, at times is just an accepted opinion
 > *- santhosh Namballa*
 >
