@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I am loved and held by a benevolent universe of love and bliss for all time.
+> *- Amy Leigh Mercree*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### The people we adore in our lives brighten our days and illuminate our nights.
 > *- Amy Leigh Mercree*
 >
