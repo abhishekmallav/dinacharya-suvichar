@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You are part of nature, and its pulse beats in your veins.
+> *- Amy Leigh Mercree*
+>
+> `[17]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I am loved and held by a benevolent universe of love and bliss for all time.
 > *- Amy Leigh Mercree*
 >
