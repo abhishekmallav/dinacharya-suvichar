@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Set aside even one day just for fun, and you will improve the next seven.
+> *- Amy Leigh Mercree*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### You are part of nature, and its pulse beats in your veins.
 > *- Amy Leigh Mercree*
 >
