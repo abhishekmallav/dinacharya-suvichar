@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Sometimes life ask you a question, but you couldn't find answer in any book. You have to create answer yourself.
+> *- Salman Mansuri*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Set aside even one day just for fun, and you will improve the next seven.
 > *- Amy Leigh Mercree*
 >
