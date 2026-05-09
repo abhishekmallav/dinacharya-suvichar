@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Ancestors from all times have shared their essence with you. Accept the light and let go of the rest.
+> *- Amy Leigh Mercree*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Sometimes life ask you a question, but you couldn't find answer in any book. You have to create answer yourself.
 > *- Salman Mansuri*
 >
