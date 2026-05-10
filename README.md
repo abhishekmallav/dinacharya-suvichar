@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When we fill our hearts with self-love, we kindle sparks of compassion all around us.
+> *- Amy Leigh Mercree*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Ancestors from all times have shared their essence with you. Accept the light and let go of the rest.
 > *- Amy Leigh Mercree*
 >
