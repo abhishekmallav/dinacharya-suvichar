@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Fresh moments ignite the senses. Create them.
+> *- Amy Leigh Mercree*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### When we fill our hearts with self-love, we kindle sparks of compassion all around us.
 > *- Amy Leigh Mercree*
 >
