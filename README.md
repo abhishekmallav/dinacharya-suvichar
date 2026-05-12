@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Are we living life, or is life living us?
+> *- Michael P. Naughton*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Fresh moments ignite the senses. Create them.
 > *- Amy Leigh Mercree*
 >
