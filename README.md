@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Dance is medicine. Movement is potent. Empower yourself with it today.
+> *- Amy Leigh Mercree*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Are we living life, or is life living us?
 > *- Michael P. Naughton*
 >
