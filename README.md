@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Your life is awash in waves of love in each moment. Open your eyes to the currents around you and bathe in the bliss.
+> *- Amy Leigh Mercree*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Dance is medicine. Movement is potent. Empower yourself with it today.
 > *- Amy Leigh Mercree*
 >
