@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Your inner essence can innovate and inspire. Harness that dynamism and embrace the positive change you can create.
+> *- Amy Leigh Mercree*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Your life is awash in waves of love in each moment. Open your eyes to the currents around you and bathe in the bliss.
 > *- Amy Leigh Mercree*
 >
