@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Every day you have to be open to like things you’ve never liked before. Every day you have to realize you can’t get too comfortable.
+> *- Jonathan W. Anderson*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Your inner essence can innovate and inspire. Harness that dynamism and embrace the positive change you can create.
 > *- Amy Leigh Mercree*
 >
