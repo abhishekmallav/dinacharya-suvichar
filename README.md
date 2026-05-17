@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Comfort, joy, and love are key ingredients to a rich, pleasurable life. Prize them.
+> *- Amy Leigh Mercree*
+>
+> `[18]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Every day you have to be open to like things you’ve never liked before. Every day you have to realize you can’t get too comfortable.
 > *- Jonathan W. Anderson*
 >
