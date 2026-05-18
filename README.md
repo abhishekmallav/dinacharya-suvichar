@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I embrace now—this moment—with my whole being.
+> *- Amy Leigh Mercree*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Comfort, joy, and love are key ingredients to a rich, pleasurable life. Prize them.
 > *- Amy Leigh Mercree*
 >
