@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### In choosing consciousness, we gift ourselves with presence.
+> *- Amy Leigh Mercree*
+>
+> `[12]  ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I embrace now—this moment—with my whole being.
 > *- Amy Leigh Mercree*
 >
