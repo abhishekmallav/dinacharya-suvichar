@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Integration happens when all parts of your being are in harmony.
+> *- Amy Leigh Mercree*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### In choosing consciousness, we gift ourselves with presence.
 > *- Amy Leigh Mercree*
 >
