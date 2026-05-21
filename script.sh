@@ -5,7 +5,7 @@ TMP="tmp.txt"
 HEADER="<!-- HEADER -->"
 
 RESPONSE=$(curl -s -H "X-Api-Key: $API_NINJAS_KEY" \
-"https://api.api-ninjas.com/v2/quoteoftheday")
+"https://api.api-ninjas.com/v2/randomquotes?category=happiness&categories=wisdom%2Csuccess")
 
 if [ -z "$RESPONSE" ]; then
     echo "Error: No response from API"
