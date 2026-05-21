@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The degree of concentration you give to your dream will determine your success percentage!
+> *- Israelmore Ayivor*
+>
+> `[17]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### I keep the light and love from my ancestors and let go of the rest.
 > *- Amy Leigh Mercree*
 >
