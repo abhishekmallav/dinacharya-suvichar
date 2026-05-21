@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I keep the light and love from my ancestors and let go of the rest.
+> *- Amy Leigh Mercree*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Integration happens when all parts of your being are in harmony.
 > *- Amy Leigh Mercree*
 >
