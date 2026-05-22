@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### There's only one growth strategy: work hard.
+> *- William Hague*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### The degree of concentration you give to your dream will determine your success percentage!
 > *- Israelmore Ayivor*
 >
