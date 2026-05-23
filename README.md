@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Greatness can be contagious, but first there must be contact.
+> *- TemitOpe Ibrahim*
+>
+> `[16]  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### There's only one growth strategy: work hard.
 > *- William Hague*
 >
