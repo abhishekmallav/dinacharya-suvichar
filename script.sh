@@ -15,7 +15,7 @@ fi
 QUOTE=$(jq -r '.[0].quote // "No quote available"' <<< "$RESPONSE")
 AUTHOR=$(jq -r '.[0].author // "Unknown author"' <<< "$RESPONSE")
 
-NUM=$(shuf -i 5-20 -n 1)
+NUM=$(shuf -i 2-11 -n 1)
 
 DOT=""
 
