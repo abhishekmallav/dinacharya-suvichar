@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You might hate a successful person, but you can not hate a true hero.
+> *- Amit Kalantri*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Greatness can be contagious, but first there must be contact.
 > *- TemitOpe Ibrahim*
 >
