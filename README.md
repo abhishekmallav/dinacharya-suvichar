@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Always take failure as an opinion never as an option.
+> *- Johnnie Dent Jr.*
+>
+> `[1]  ●`
+
+
+
 > ### You might hate a successful person, but you can not hate a true hero.
 > *- Amit Kalantri*
 >
