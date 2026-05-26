@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you dream big, you achieve big.If you dream small, you achieve small. Dreams make the difference.
+> *- Koyel Mitra*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Always take failure as an opinion never as an option.
 > *- Johnnie Dent Jr.*
 >
