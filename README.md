@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Finding good players is easy. Getting them to play as a team is another story.
+> *- Casey Stengel*
+>
+> `[2]  ● ●`
+
+
+
 > ### Planning is bringing the future into the present so that you can do something about it now.
 > *- Alan Lakein*
 >
