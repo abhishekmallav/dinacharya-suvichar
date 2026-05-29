@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Start by doing what’s necessary, then what’s possible, and suddenly you are doing the impossible.
+> *- Francis of Assisi*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Finding good players is easy. Getting them to play as a team is another story.
 > *- Casey Stengel*
 >
