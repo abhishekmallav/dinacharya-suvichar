@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Failure in and of itself is not a bad thing. But failing to learn from it is inexcusable.
+> *- Alison Levine*
+>
+> `[1]  ●`
+
+
+
 > ### Start by doing what’s necessary, then what’s possible, and suddenly you are doing the impossible.
 > *- Francis of Assisi*
 >
