@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You can, and you will. If you're going to carry any belief, carry one that empowers you. Believe in your unlimited potential.
+> *- Akiroq Brost*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Failure in and of itself is not a bad thing. But failing to learn from it is inexcusable.
 > *- Alison Levine*
 >
