@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The only thing between you and success is your thinking. Defeatist thoughts are the mother of inaction.
+> *- Iimani David*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### You can, and you will. If you're going to carry any belief, carry one that empowers you. Believe in your unlimited potential.
 > *- Akiroq Brost*
 >
