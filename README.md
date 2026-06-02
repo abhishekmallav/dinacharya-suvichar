@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The first principle of success is desire - knowing what you want. Desire is the planting of your seed.
+> *- Robert Collier*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### The only thing between you and success is your thinking. Defeatist thoughts are the mother of inaction.
 > *- Iimani David*
 >
