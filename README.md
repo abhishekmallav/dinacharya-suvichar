@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### One person with commitment accomplishes more than a thousand with an opinion.
+> *- Orrin Woodward*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### The first principle of success is desire - knowing what you want. Desire is the planting of your seed.
 > *- Robert Collier*
 >
