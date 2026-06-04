@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### In this business, until you're known as a monster you're not a star.
+> *- Bette Davis*
+>
+> `[2]  ● ●`
+
+
+
 > ### One person with commitment accomplishes more than a thousand with an opinion.
 > *- Orrin Woodward*
 >
