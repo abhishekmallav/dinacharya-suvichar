@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success is end result of many combats.
+> *- Lailah Gifty Akita*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### In this business, until you're known as a monster you're not a star.
 > *- Bette Davis*
 >
