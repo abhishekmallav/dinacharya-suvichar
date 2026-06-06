@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Even though your time on the job is temporary, if you do a good enough job, your work there will last forever.
+> *- Idowu Koyenikan*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Success is end result of many combats.
 > *- Lailah Gifty Akita*
 >
