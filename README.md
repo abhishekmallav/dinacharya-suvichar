@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Your discipline or lack of discipline will protect you from or expose you to disaster. Practice discipline. Be consistent.
+> *- Bobby F. Kimbrough Jr.*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### Even though your time on the job is temporary, if you do a good enough job, your work there will last forever.
 > *- Idowu Koyenikan*
 >
