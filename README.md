@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Climb the ladder of success, by always putting forward your best self. Practice being the best at what you do.
+> *- Mark F. LaMoure*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Your discipline or lack of discipline will protect you from or expose you to disaster. Practice discipline. Be consistent.
 > *- Bobby F. Kimbrough Jr.*
 >
