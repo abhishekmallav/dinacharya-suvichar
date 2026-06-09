@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Everyone can perform magic, everyone can reach his goals, ifhe is able to think, if he is able to wait, if he is able to fast.
+> *- Hermann Hesse*
+>
+> `[2]  ● ●`
+
+
+
 > ### Climb the ladder of success, by always putting forward your best self. Practice being the best at what you do.
 > *- Mark F. LaMoure*
 >
