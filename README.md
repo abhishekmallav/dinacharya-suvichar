@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If your failure is not a lesson, it's indeed a failure.
+> *- Ogwo David Emenike*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Everyone can perform magic, everyone can reach his goals, ifhe is able to think, if he is able to wait, if he is able to fast.
 > *- Hermann Hesse*
 >
