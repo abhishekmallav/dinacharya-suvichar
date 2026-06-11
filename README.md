@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Attitude Is More Important Than Talent!
+> *- Latif Mercado*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If your failure is not a lesson, it's indeed a failure.
 > *- Ogwo David Emenike*
 >
