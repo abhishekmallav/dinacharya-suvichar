@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### 
+> *- *
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### I realized that what matters with any innovation is that it actually creates more value for people.
 > *- Stuart Crainer*
 >
