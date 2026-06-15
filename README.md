@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Failure is falling up!
+> *- Dr. Sean McMillan*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Opportunities are not to be availed but to be made.
 > *- Ibrahiem Azeiem*
 >
