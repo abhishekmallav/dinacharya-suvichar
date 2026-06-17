@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Committing to a goal does not always bring action, yet committing to an action will invariably bring you to your goal.
+> *- Jeffrey Fry*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### Once you say you're going to settle for second  that's what happens to you.
 > *- John F. Kennedy*
 >
