@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Either find a way, or make one....You can bend but you can never break if you want to achieve excellence.
+> *- Ziad K. Abdelnour*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Committing to a goal does not always bring action, yet committing to an action will invariably bring you to your goal.
 > *- Jeffrey Fry*
 >
