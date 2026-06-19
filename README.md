@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Crafting a plan is easy. Taking action will always prove to be the more difficult path.
+> *- Camron Wright*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### Either find a way, or make one....You can bend but you can never break if you want to achieve excellence.
 > *- Ziad K. Abdelnour*
 >
