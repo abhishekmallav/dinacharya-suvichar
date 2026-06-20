@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success isn't permanent and failure isn't fatal.
+> *- Mike Ditka*
+>
+> `[2]  ● ●`
+
+
+
 > ### Crafting a plan is easy. Taking action will always prove to be the more difficult path.
 > *- Camron Wright*
 >
