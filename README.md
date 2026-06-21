@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Genius is only great patience.
+> *- Anonymous*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Success isn't permanent and failure isn't fatal.
 > *- Mike Ditka*
 >
