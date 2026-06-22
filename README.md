@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### There is joy in work. There is no happiness except in the realization that we have accomplished something.
+> *- Henry Ford*
+>
+> `[2]  ● ●`
+
+
+
 > ### Genius is only great patience.
 > *- Anonymous*
 >
