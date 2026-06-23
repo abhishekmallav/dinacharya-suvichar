@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### An organization has worth when its movement has a tangible goal
+> *- Sunday Adelaja*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### There is joy in work. There is no happiness except in the realization that we have accomplished something.
 > *- Henry Ford*
 >
