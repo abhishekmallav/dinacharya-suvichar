@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Do not follow the success do your best whatever you do so success will follow you
+> *- Rancho*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### An organization has worth when its movement has a tangible goal
 > *- Sunday Adelaja*
 >
