@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### A person without a plan is a person with soggy dreams.
+> *- Ben Tolosa*
+>
+> `[2]  ● ●`
+
+
+
 > ### Do not follow the success do your best whatever you do so success will follow you
 > *- Rancho*
 >
