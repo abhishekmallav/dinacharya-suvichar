@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Every victory won was first won spiritually!
+> *- Lailah Gifty Akita*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### A person without a plan is a person with soggy dreams.
 > *- Ben Tolosa*
 >
