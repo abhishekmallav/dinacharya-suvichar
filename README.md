@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you can learn to motivate yourself, you can always tap into an abundance of energy that will drive you to the success you dream of.
+> *- Rachael Bermingham*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Every victory won was first won spiritually!
 > *- Lailah Gifty Akita*
 >
