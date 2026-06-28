@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I have been up against tough competition all my life. I wouldn't know how to get along without it.
+> *- Walt Disney*
+>
+> `[1]  ●`
+
+
+
 > ### If you can learn to motivate yourself, you can always tap into an abundance of energy that will drive you to the success you dream of.
 > *- Rachael Bermingham*
 >
