@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Some will, some won't. Look for the ones who will.
+> *- Todd Stocker*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### I have been up against tough competition all my life. I wouldn't know how to get along without it.
 > *- Walt Disney*
 >
