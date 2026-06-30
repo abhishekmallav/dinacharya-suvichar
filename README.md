@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I would rather listen to someone who tried and failed than someone who dreamed but never tried.
+> *- Jennifer Coletta*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Some will, some won't. Look for the ones who will.
 > *- Todd Stocker*
 >
