@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Sometimes by losing a battle you find a new way to win the war.
+> *- Donald Trump*
+>
+> `[1]  ●`
+
+
+
 > ### I would rather listen to someone who tried and failed than someone who dreamed but never tried.
 > *- Jennifer Coletta*
 >
