@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you're not pitching, stop bitching
+> *- Rebecca Aguilar*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Sometimes by losing a battle you find a new way to win the war.
 > *- Donald Trump*
 >
