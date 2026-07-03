@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The number one skill in life is not giving up.
+> *- Bryant McGill*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### If you're not pitching, stop bitching
 > *- Rebecca Aguilar*
 >
