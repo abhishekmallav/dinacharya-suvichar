@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The roughest roads often lead to the top.
+> *- Christina Aguilera*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### The number one skill in life is not giving up.
 > *- Bryant McGill*
 >
