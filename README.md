@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Always dream high. Never let it down by inconsistent efforts. Your relentless labour & integrity make you successful in the long run.
+> *- Md. Mujib Ullah*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### The roughest roads often lead to the top.
 > *- Christina Aguilera*
 >
