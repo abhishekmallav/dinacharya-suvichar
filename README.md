@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.
+> *- Steve Maraboli*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Always dream high. Never let it down by inconsistent efforts. Your relentless labour & integrity make you successful in the long run.
 > *- Md. Mujib Ullah*
 >
