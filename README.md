@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The person born with a talent they are meant to use will find their greatest happiness in using it.
+> *- Johann Wolfgang von Goethe*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.
 > *- Steve Maraboli*
 >
