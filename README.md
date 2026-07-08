@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It is in doing things and not reading about them that results come about.
+> *- Stephen Richards*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### The person born with a talent they are meant to use will find their greatest happiness in using it.
 > *- Johann Wolfgang von Goethe*
 >
