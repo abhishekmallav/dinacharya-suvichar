@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Do what supports your long-term goals not what is easier.
+> *- Debasish Mridha*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### It is in doing things and not reading about them that results come about.
 > *- Stephen Richards*
 >
