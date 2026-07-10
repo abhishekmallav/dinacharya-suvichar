@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Paying the price for your dreams proves you can afford them.
+> *- Matshona Dhliwayo*
+>
+> `[2]  ● ●`
+
+
+
 > ### Do what supports your long-term goals not what is easier.
 > *- Debasish Mridha*
 >
