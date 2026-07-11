@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### So many financial dreams are thwarted by the failure to act upon good intentions.
+> *- Suze Orman*
+>
+> `[2]  ● ●`
+
+
+
 > ### Paying the price for your dreams proves you can afford them.
 > *- Matshona Dhliwayo*
 >
