@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When you want something badly enough, it does not matter whether it is going to be easy. The passion will push you forward.
+> *- Susan C. Young*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### So many financial dreams are thwarted by the failure to act upon good intentions.
 > *- Suze Orman*
 >
