@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Don’t think about the possibilities of failing. Never forget to think about the possibilities of flying.
+> *- Debasish Mridha*
+>
+> `[2]  ● ●`
+
+
+
 > ### When you want something badly enough, it does not matter whether it is going to be easy. The passion will push you forward.
 > *- Susan C. Young*
 >
