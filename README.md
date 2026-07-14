@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Follow the rules until you make them.
+> *- Luke Green*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Don’t think about the possibilities of failing. Never forget to think about the possibilities of flying.
 > *- Debasish Mridha*
 >
