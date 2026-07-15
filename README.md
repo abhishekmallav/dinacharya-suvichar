@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Overcoming the pain of self-discipline, we achieve our goals and move towards our dreams
+> *- Sunday Adelaja*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Follow the rules until you make them.
 > *- Luke Green*
 >
