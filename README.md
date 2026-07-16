@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you aspire to be a sparrow you will never be an eagle!
+> *- Stephen Richards*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Overcoming the pain of self-discipline, we achieve our goals and move towards our dreams
 > *- Sunday Adelaja*
 >
