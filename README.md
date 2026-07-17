@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Nothing can succeed in stopping a man that has mastered the infinite power of the subconscious mind from reaching the territory of greatness.
+> *- *
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If you aspire to be a sparrow you will never be an eagle!
 > *- Stephen Richards*
 >
