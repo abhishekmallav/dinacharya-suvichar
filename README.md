@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### One day the people that didn't believe in you,will tell everyone how they met you.
+> *- Aayush Shilpakar*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Nothing can succeed in stopping a man that has mastered the infinite power of the subconscious mind from reaching the territory of greatness.
 > *- *
 >
