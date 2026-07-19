@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Bad economics teaches that computers can design markets. Good economics teaches that markets can design computers.
+> *- Jakub Bożydar Wiśniewski*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### One day the people that didn't believe in you,will tell everyone how they met you.
 > *- Aayush Shilpakar*
 >
