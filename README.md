@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You too can be as influential as the people that you admire. It is a matter of having the willingness to work relentlessly for it.
+> *- *
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Bad economics teaches that computers can design markets. Good economics teaches that markets can design computers.
 > *- Jakub Bożydar Wiśniewski*
 >
