@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### A man is rich in proportion to the number of things he can afford to let alone.
+> *- Henry David Thoreau*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### You too can be as influential as the people that you admire. It is a matter of having the willingness to work relentlessly for it.
 > *- *
 >
