@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Hard work beats talent when talent fails to work hard.
+> *- Kevin Durant*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### A man is rich in proportion to the number of things he can afford to let alone.
 > *- Henry David Thoreau*
 >
