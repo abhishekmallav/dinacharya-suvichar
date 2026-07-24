@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Surround yourself with those who won’t compete but will revel in you your success and see your ascent as a reflection of their own possibilities.
+> *- Ifeanyi Enoch Onuoha*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### To succeed, you have to say ‘no’ more often than you say ‘yes’. This is easier when you have a definite purpose or clarity on the desired outcome.
 > *- Mensah Oteh*
 >
