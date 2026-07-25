@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals.
+> *- Jim Rohn*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Surround yourself with those who won’t compete but will revel in you your success and see your ascent as a reflection of their own possibilities.
 > *- Ifeanyi Enoch Onuoha*
 >
