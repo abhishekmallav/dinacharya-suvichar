@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You cannot climb up to a true leadership position unless you use the ladder of integrity!
+> *- Israelmore Ayivor*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals.
 > *- Jim Rohn*
 >
