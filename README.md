@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You can’t do everything, so pick what is important and focus on that relentlessly.
+> *- Sunday Adelaja*
+>
+> `[2]  ● ●`
+
+
+
 > ### You cannot climb up to a true leadership position unless you use the ladder of integrity!
 > *- Israelmore Ayivor*
 >
