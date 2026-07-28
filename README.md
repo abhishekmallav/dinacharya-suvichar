@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### More important than your skills is picking the right business.
+> *- Ehab Atalla*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### You can’t do everything, so pick what is important and focus on that relentlessly.
 > *- Sunday Adelaja*
 >
