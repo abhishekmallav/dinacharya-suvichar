@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Money is only a problem to those that aren't willing to develop a higher conscience about how to master it.
+> *- Robin Sacredfire*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### More important than your skills is picking the right business.
 > *- Ehab Atalla*
 >
