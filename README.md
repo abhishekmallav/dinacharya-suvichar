@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### People are never able to outperform their self-image.
+> *- John C. Maxwell*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### FOCUS = Follow On Course Until Successful.
 > *- Ifeanyi Enoch Onuoha*
 >
