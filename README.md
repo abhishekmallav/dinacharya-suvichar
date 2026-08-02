@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### There is no substitute for victory.
+> *- Douglas MacArthur*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### If you wait for the right time or the good times to start a business, you wait all your life.
 > *- Fran Tarkenton*
 >
