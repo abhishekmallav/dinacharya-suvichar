@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Perseverance is failing nineteen times and succeeding the twentieth.
+> *- Julie Andrews*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### There is no substitute for victory.
 > *- Douglas MacArthur*
 >
