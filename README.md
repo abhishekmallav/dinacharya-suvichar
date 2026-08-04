@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success needs vision to see, passion to transcend, patience to withstand and the character to overcome failures.
+> *- Amit Ray*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Perseverance is failing nineteen times and succeeding the twentieth.
 > *- Julie Andrews*
 >
