@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Money takes wings. The only thing that endures is character.
+> *- O. J. Simpson*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Success needs vision to see, passion to transcend, patience to withstand and the character to overcome failures.
 > *- Amit Ray*
 >
