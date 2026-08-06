@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Fear success but not the mistakes.
+> *- Debasish Mridha*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Money takes wings. The only thing that endures is character.
 > *- O. J. Simpson*
 >
