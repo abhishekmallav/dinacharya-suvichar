@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You can only learn through failure, and what ye learn is the importance ay preparation.
+> *- Irvine Welsh*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### Fear success but not the mistakes.
 > *- Debasish Mridha*
 >
