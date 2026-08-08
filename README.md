@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I think everybody should get rich and famous and do everything they ever dreamed of so they can see that it's not the answer.
+> *- Jim Carrey*
+>
+> `[1]  ●`
+
+
+
 > ### You can only learn through failure, and what ye learn is the importance ay preparation.
 > *- Irvine Welsh*
 >
