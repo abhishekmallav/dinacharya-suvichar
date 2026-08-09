@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### With a burning ambition, sustained focus, and daily action - there simply are no limits to what you will achieve.
+> *- Curtis Rivers*
+>
+> `[2]  ● ●`
+
+
+
 > ### I think everybody should get rich and famous and do everything they ever dreamed of so they can see that it's not the answer.
 > *- Jim Carrey*
 >
