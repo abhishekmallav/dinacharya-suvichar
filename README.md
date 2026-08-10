@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Take action! An inch of movement will bring you closer to your goals than a mile of intention.
+> *- Steve Maraboli*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### With a burning ambition, sustained focus, and daily action - there simply are no limits to what you will achieve.
 > *- Curtis Rivers*
 >
