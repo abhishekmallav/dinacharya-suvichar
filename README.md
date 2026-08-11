@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you believe you can, you can make your dreams come true.
+> *- Lailah Gifty Akita*
+>
+> `[1]  ●`
+
+
+
 > ### Take action! An inch of movement will bring you closer to your goals than a mile of intention.
 > *- Steve Maraboli*
 >
