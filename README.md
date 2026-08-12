@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Over time, repetition brings perfection, which brings success.
+> *- Rajen Jani*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### If you believe you can, you can make your dreams come true.
 > *- Lailah Gifty Akita*
 >
