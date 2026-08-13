@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Luck always favors those who are bold.
+> *- Debasish Mridha*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Over time, repetition brings perfection, which brings success.
 > *- Rajen Jani*
 >
