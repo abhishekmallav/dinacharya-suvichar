@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The most important thing in life is to know what you truly want. Then finding it is easy.
+> *- Debasish Mridha*
+>
+> `[1]  ●`
+
+
+
 > ### Luck always favors those who are bold.
 > *- Debasish Mridha*
 >
