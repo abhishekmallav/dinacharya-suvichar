@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Diligence without intelligence is tragedy, not success.
+> *- Kevin Keenoo*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### The most important thing in life is to know what you truly want. Then finding it is easy.
 > *- Debasish Mridha*
 >
