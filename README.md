@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Perseverance is persistent insistence.
+> *- Manuela George-Izunwa*
+>
+> `[1]  ●`
+
+
+
 > ### Diligence without intelligence is tragedy, not success.
 > *- Kevin Keenoo*
 >
