@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The blame game is already a lost game, so don't attempt dressing up to play it! Blames create no change; winners don't apportion blames!
+> *- Israelmore Ayivor*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Perseverance is persistent insistence.
 > *- Manuela George-Izunwa*
 >
