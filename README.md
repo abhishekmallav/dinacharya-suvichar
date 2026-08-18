@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If your success is as a result of a trail of tears & hurt you left in anothers life, Karmas' watching.
+> *- Jaelle Siang'a*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### The blame game is already a lost game, so don't attempt dressing up to play it! Blames create no change; winners don't apportion blames!
 > *- Israelmore Ayivor*
 >
