@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If your plan is not working, pivot. If it is working, do more of it!
+> *- Amber Hurdle*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If your success is as a result of a trail of tears & hurt you left in anothers life, Karmas' watching.
 > *- Jaelle Siang'a*
 >
