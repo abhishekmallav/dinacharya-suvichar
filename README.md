@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Winning has a value for ego, but participation has a value for life.
+> *- Debasish Mridha*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### If your plan is not working, pivot. If it is working, do more of it!
 > *- Amber Hurdle*
 >
