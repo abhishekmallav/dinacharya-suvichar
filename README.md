@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success is the sweetest thing to taste,the bitterest thing to lose,and the hardest thing to earn.
+> *- Matshona Dhliwayo*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Winning has a value for ego, but participation has a value for life.
 > *- Debasish Mridha*
 >
