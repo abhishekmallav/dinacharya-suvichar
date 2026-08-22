@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success is nothing more than a few simple disciplines, practiced every day.
+> *- Jim Rohn*
+>
+> `[1]  ●`
+
+
+
 > ### Success is the sweetest thing to taste,the bitterest thing to lose,and the hardest thing to earn.
 > *- Matshona Dhliwayo*
 >
