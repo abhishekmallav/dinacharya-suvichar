@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Watch people when they win, and you will learn something. But watch them when they lose, and you will learn even more.
+> *- Pang-Mei Natasha Chang*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Success is nothing more than a few simple disciplines, practiced every day.
 > *- Jim Rohn*
 >
