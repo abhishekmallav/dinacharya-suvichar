@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Believe in yourself, you can do great things!
+> *- Lailah Gifty Akita*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### Watch people when they win, and you will learn something. But watch them when they lose, and you will learn even more.
 > *- Pang-Mei Natasha Chang*
 >
