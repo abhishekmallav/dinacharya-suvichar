@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It is better to be a star for one day than a moon for a lifetime.
+> *- Matshona Dhliwayo*
+>
+> `[2]  ● ●`
+
+
+
 > ### Believe in yourself, you can do great things!
 > *- Lailah Gifty Akita*
 >
