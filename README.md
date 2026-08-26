@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Here's how man thinks: "If no one's done it, why should I try? It's a waste of my time; but if he's done it, I can do it better.
+> *- Nabil N. Jamal*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### It is better to be a star for one day than a moon for a lifetime.
 > *- Matshona Dhliwayo*
 >
