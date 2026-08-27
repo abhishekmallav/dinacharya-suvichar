@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I don't pay good wages because I have a lot of money I have a lot of money because I pay good wages.
+> *- Robert Bosch*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Here's how man thinks: "If no one's done it, why should I try? It's a waste of my time; but if he's done it, I can do it better.
 > *- Nabil N. Jamal*
 >
