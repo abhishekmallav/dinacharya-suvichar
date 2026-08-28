@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Earning is a product of learning. You're only one letter away from earning more.
+> *- Richie Norton*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### I don't pay good wages because I have a lot of money I have a lot of money because I pay good wages.
 > *- Robert Bosch*
 >
