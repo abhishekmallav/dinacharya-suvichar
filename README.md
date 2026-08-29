@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Work hard, use your common sense and don't be afraid to trust your instincts.
+> *- Fred L. Turner*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Earning is a product of learning. You're only one letter away from earning more.
 > *- Richie Norton*
 >
