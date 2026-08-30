@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If we did all the things we are capable of, we would literally astound ourselves.
+> *- Thomas A. Edison*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Work hard, use your common sense and don't be afraid to trust your instincts.
 > *- Fred L. Turner*
 >
