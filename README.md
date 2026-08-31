@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute.
+> *- William Feather*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If we did all the things we are capable of, we would literally astound ourselves.
 > *- Thomas A. Edison*
 >
