@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Think on blessings and not curses, beauty not ugliness, health not sickness. Meditate on wealth not poverty, success not failure, grace not disgrace!
+> *- Jaachynma N.E. Agu*
+>
+> `[2]  ● ●`
+
+
+
 > ### One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute.
 > *- William Feather*
 >
