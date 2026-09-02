@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I must have no fear of failure. It was my fear of failure that first kept me from attempting the Master Work.
+> *- Paulo Coelho*
+>
+> `[2]  ● ●`
+
+
+
 > ### Think on blessings and not curses, beauty not ugliness, health not sickness. Meditate on wealth not poverty, success not failure, grace not disgrace!
 > *- Jaachynma N.E. Agu*
 >
