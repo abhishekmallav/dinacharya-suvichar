@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### People are hungry for success without work.
+> *- Alin Sav*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### I must have no fear of failure. It was my fear of failure that first kept me from attempting the Master Work.
 > *- Paulo Coelho*
 >
