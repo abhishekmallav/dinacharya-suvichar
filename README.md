@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The great souls work with great passion.
+> *- Lailah Gifty Akita*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### People are hungry for success without work.
 > *- Alin Sav*
 >
