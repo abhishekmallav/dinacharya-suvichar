@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The moment you make the internal changes necessary to obtain your goal, the outside world changes instantly.
+> *- Chris Prentiss*
+>
+> `[1]  ●`
+
+
+
 > ### The great souls work with great passion.
 > *- Lailah Gifty Akita*
 >
