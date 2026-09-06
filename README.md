@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Whenever success and fame override our senses with greed, arrogance and delusion; it is a time to pause and reflect.
+> *- Aditya Ajmera*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### The moment you make the internal changes necessary to obtain your goal, the outside world changes instantly.
 > *- Chris Prentiss*
 >
