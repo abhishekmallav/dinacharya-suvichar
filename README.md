@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Industry and determination, Mister Kettle, can transform the difficult into the routine," Grimm said.
+> *- Jim Butcher*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Whenever success and fame override our senses with greed, arrogance and delusion; it is a time to pause and reflect.
 > *- Aditya Ajmera*
 >
