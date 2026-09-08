@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### How much you can learn when you fail determines how far you will go into achieving your goals.
+> *- Roy T. Bennett*
+>
+> `[1]  ●`
+
+
+
 > ### Industry and determination, Mister Kettle, can transform the difficult into the routine," Grimm said.
 > *- Jim Butcher*
 >
