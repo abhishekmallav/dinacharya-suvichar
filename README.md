@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Limiting beliefs are a virus of the mind. They decline your success and happiness.
+> *- Maddy Malhotra*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### How much you can learn when you fail determines how far you will go into achieving your goals.
 > *- Roy T. Bennett*
 >
