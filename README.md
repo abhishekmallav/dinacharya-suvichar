@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It always seems impossible until it's done.
+> *- Nelson Mandela*
+>
+> `[1]  ●`
+
+
+
 > ### Limiting beliefs are a virus of the mind. They decline your success and happiness.
 > *- Maddy Malhotra*
 >
