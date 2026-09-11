@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Anyone can have a good day, but you have to be able to perform on a bad day.
+> *- Jurgen Klopp*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### It always seems impossible until it's done.
 > *- Nelson Mandela*
 >
