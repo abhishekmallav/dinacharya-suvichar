@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You must become the producer, director and actor in the unfolding story of your life.
+> *- Wayne W. Dyer*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Fame is something which must be won  honour is something which must not be lost.
 > *- Arthur Schopenhauer*
 >
