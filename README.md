@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Dreams don't work unless you take action. The surest way to make your dreams come true is to live them.
+> *- Roy T. Bennett*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### You must become the producer, director and actor in the unfolding story of your life.
 > *- Wayne W. Dyer*
 >
