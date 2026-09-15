@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Dreams come true with much work.
+> *- Lailah Gifty Akita*
+>
+> `[2]  ● ●`
+
+
+
 > ### Dreams don't work unless you take action. The surest way to make your dreams come true is to live them.
 > *- Roy T. Bennett*
 >
