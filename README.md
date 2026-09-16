@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### In order to succeed, we must first believe that we can.
+> *- Nikos Kazantzakis*
+>
+> `[2]  ● ●`
+
+
+
 > ### Dreams come true with much work.
 > *- Lailah Gifty Akita*
 >
