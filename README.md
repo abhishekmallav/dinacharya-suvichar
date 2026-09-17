@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Habits are tools. They can either propel you toward success or drag you down.
+> *- Silvica Rosca*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### In order to succeed, we must first believe that we can.
 > *- Nikos Kazantzakis*
 >
