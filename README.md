@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success is having to worry about every damn thing in the world, except money.
+> *- Johnny Cash*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Habits are tools. They can either propel you toward success or drag you down.
 > *- Silvica Rosca*
 >
