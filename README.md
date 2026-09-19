@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### A prosperous person programmes prosperous thinking into his or her mind.
+> *- Godwin Elendu Ph.D*
+>
+> `[2]  ● ●`
+
+
+
 > ### Success is having to worry about every damn thing in the world, except money.
 > *- Johnny Cash*
 >
