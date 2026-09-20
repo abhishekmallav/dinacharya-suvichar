@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Strive to enrich all lives, hearts and minds not just your own pockets
+> *- Rasheed Ogunlaru*
+>
+> `[1]  ●`
+
+
+
 > ### A prosperous person programmes prosperous thinking into his or her mind.
 > *- Godwin Elendu Ph.D*
 >
