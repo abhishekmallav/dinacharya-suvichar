@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you got a dream, you are good to go. The only extra luggage you will need is self-belief and perseverance.
+> *- Unarine Ramaru*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Strive to enrich all lives, hearts and minds not just your own pockets
 > *- Rasheed Ogunlaru*
 >
