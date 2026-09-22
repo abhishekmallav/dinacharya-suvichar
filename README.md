@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### it is easy to surpass a predecessor, but difficult to avoid being surpassed by a successor.
+> *- Eiji Yoshikawa*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If you got a dream, you are good to go. The only extra luggage you will need is self-belief and perseverance.
 > *- Unarine Ramaru*
 >
