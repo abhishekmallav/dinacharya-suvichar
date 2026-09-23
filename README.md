@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Happy people produce. Bored people consume.
+> *- Stephen Richards*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### it is easy to surpass a predecessor, but difficult to avoid being surpassed by a successor.
 > *- Eiji Yoshikawa*
 >
