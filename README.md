@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Most times problems are not solved with more money. It usually takes innovation." - L. R. W. Lee, Andy Smithson: Blast of the Dragon's Fury
+> *- L.R.W. Lee*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Happy people produce. Bored people consume.
 > *- Stephen Richards*
 >
