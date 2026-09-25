@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Failure is the key to success each mistake teaches us something.
+> *- Morihei Ueshiba*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Most times problems are not solved with more money. It usually takes innovation." - L. R. W. Lee, Andy Smithson: Blast of the Dragon's Fury
 > *- L.R.W. Lee*
 >
