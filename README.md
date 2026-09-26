@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The only thing that happens overnight is recognition. Not talent.
+> *- Carol Haney*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### Failure is the key to success each mistake teaches us something.
 > *- Morihei Ueshiba*
 >
