@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Vision transforms hope into committed action and passion transforms wants into new realities.
+> *- Michael Strasner*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### The only thing that happens overnight is recognition. Not talent.
 > *- Carol Haney*
 >
