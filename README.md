@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The people we consider successful in our society are all people that seize every moment and make the best of each situation.
+> *- Steve Maraboli*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### Vision transforms hope into committed action and passion transforms wants into new realities.
 > *- Michael Strasner*
 >
