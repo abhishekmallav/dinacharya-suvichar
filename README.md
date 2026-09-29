@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Decide on the future you want to experience, then find out the habits that will produce it and practice them daily.
+> *- Mensah Oteh*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### The people we consider successful in our society are all people that seize every moment and make the best of each situation.
 > *- Steve Maraboli*
 >
