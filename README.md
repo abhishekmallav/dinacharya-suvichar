@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### They who have conquered doubt and fear have conquered failure.
+> *- James Allen*
+>
+> `[1]  ●`
+
+
+
 > ### Decide on the future you want to experience, then find out the habits that will produce it and practice them daily.
 > *- Mensah Oteh*
 >
