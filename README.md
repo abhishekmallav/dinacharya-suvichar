@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It is better to be young in your failures than old in your successes.
+> *- Flannery O'Connor*
+>
+> `[2]  ● ●`
+
+
+
 > ### They who have conquered doubt and fear have conquered failure.
 > *- James Allen*
 >
