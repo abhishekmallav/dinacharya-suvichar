@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success is sweet and sweeter if long delayed and gotten through many struggles and defeats.
+> *- Amos Bronson Alcott*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### It is better to be young in your failures than old in your successes.
 > *- Flannery O'Connor*
 >
