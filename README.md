@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success comes from knowing that you did your best to become the best that you are capable of becoming.
+> *- John Wooden*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Success is sweet and sweeter if long delayed and gotten through many struggles and defeats.
 > *- Amos Bronson Alcott*
 >
