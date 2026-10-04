@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Just because everyone around you is playing small, doesn't mean that you aren't entitled to dreaming big.
+> *- *
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Success comes from knowing that you did your best to become the best that you are capable of becoming.
 > *- John Wooden*
 >
