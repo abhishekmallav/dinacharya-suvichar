@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### There must be a demand, there must be an urge and there must be a will and where there is a demand and a will, there will also be a way.
+> *- Patience Johnson*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### Just because everyone around you is playing small, doesn't mean that you aren't entitled to dreaming big.
 > *- *
 >
