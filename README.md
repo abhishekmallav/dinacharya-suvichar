@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Don’t live a normal life by default, push the boundaries of your potential.
+> *- Steven Redhead*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### There must be a demand, there must be an urge and there must be a will and where there is a demand and a will, there will also be a way.
 > *- Patience Johnson*
 >
