@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Every creative act, however small, enriches our species and the world around us. To find and nurture talent, is to be truly wealthy.
+> *- Stewart Stafford*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Don’t live a normal life by default, push the boundaries of your potential.
 > *- Steven Redhead*
 >
