@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### There is only one valid definition of business purpose: to create a customer.
+> *- Peter F. Drucker*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Every creative act, however small, enriches our species and the world around us. To find and nurture talent, is to be truly wealthy.
 > *- Stewart Stafford*
 >
