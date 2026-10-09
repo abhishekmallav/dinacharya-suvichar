@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Rich people think long-term. they balance their spending on enjoyment today with investing for freedom tommorow
+> *- Hyacil Han*
+>
+> `[1]  ●`
+
+
+
 > ### There is only one valid definition of business purpose: to create a customer.
 > *- Peter F. Drucker*
 >
