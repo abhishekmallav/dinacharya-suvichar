@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you look on wealth as a thing to be valued your imaginary poverty will cause you torment.
+> *- Seneca*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### Rich people think long-term. they balance their spending on enjoyment today with investing for freedom tommorow
 > *- Hyacil Han*
 >
