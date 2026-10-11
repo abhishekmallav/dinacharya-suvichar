@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When we spend money we lose them forever, when we give them away, we will have them forever.
+> *- Debasish Mridha*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### If you look on wealth as a thing to be valued your imaginary poverty will cause you torment.
 > *- Seneca*
 >
