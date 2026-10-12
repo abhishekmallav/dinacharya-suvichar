@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Big dreams create the magic that stir men's souls to greatness.
+> *- Bill McCartney*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### When we spend money we lose them forever, when we give them away, we will have them forever.
 > *- Debasish Mridha*
 >
