@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When you reframe problems as projects or opportunities, they will cease to bother you and begin to stimulate you.
+> *- Alan Cohen*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Big dreams create the magic that stir men's souls to greatness.
 > *- Bill McCartney*
 >
