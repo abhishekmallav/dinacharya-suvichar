@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Today’s amateurs are tomorrow’s champions.
+> *- Matshona Dhliwayo*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### When you reframe problems as projects or opportunities, they will cease to bother you and begin to stimulate you.
 > *- Alan Cohen*
 >
