@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Shoot for the moon. Even if you miss it  you will land among the stars.
+> *- Les Brown*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Today’s amateurs are tomorrow’s champions.
 > *- Matshona Dhliwayo*
 >
