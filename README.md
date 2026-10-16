@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I want to be great  or nothing. I won't be a commonplace dauber  so I don't intend to try any more.
+> *- Louisa May Alcott*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Shoot for the moon. Even if you miss it  you will land among the stars.
 > *- Les Brown*
 >
