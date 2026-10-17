@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Our biggest obstacle to success is not the lack of opportunity but addiction to conformity.
+> *- Debasish Mridha*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### I want to be great  or nothing. I won't be a commonplace dauber  so I don't intend to try any more.
 > *- Louisa May Alcott*
 >
