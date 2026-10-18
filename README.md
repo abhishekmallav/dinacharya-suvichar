@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The more you can have control over your ego rather than let it run amuck, the more successful you’ll be in all areas of life.
+> *- Roy T. Bennett*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Our biggest obstacle to success is not the lack of opportunity but addiction to conformity.
 > *- Debasish Mridha*
 >
