@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It doesn't make sense to hire smart people and then tell them what to to , We hire smart people so they can tell us what to do.
+> *- Steve Jobs*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### The more you can have control over your ego rather than let it run amuck, the more successful you’ll be in all areas of life.
 > *- Roy T. Bennett*
 >
