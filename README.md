@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### No one ever drowned in sweat.
+> *- U.S. Marine Corps*
+>
+> `[1]  ●`
+
+
+
 > ### It doesn't make sense to hire smart people and then tell them what to to , We hire smart people so they can tell us what to do.
 > *- Steve Jobs*
 >
