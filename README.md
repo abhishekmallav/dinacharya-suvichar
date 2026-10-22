@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you Never Give Up, You can Beat The Best !! And in the end you become The Best.
+> *- Manu Pratap TMPS*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### If a person does not rule over money, then money will rule over him
 > *- Sunday Adelaja*
 >
