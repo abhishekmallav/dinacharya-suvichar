@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Never settle for less than what you imagined possible for yourself
+> *- Jerel Hill*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### If you Never Give Up, You can Beat The Best !! And in the end you become The Best.
 > *- Manu Pratap TMPS*
 >
