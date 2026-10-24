@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You can either hold onto your dream by letting go of your excuses or hold onto your excuses by letting go of your dream.
+> *- Orrin Woodward*
+>
+> `[1]  ●`
+
+
+
 > ### Never settle for less than what you imagined possible for yourself
 > *- Jerel Hill*
 >
