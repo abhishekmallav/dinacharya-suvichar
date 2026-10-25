@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success doesn't come to you walking, you should move towards it
+> *- Kamal Khanzada*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### You can either hold onto your dream by letting go of your excuses or hold onto your excuses by letting go of your dream.
 > *- Orrin Woodward*
 >
