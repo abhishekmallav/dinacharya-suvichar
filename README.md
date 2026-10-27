@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You should create a system or structure helping you to turn your dream into reality
+> *- Sunday Adelaja*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### I try to do the right thing at the right time. They may just be little things, but usually they make the difference between winning and losing.
 > *- Kareem Abdul-Jabbar*
 >
