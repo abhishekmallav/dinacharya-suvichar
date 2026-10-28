@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I have always observed that to succeed in the world one should appear like a fool but be wise.
+> *- Charles Montesquieu*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### You should create a system or structure helping you to turn your dream into reality
 > *- Sunday Adelaja*
 >
