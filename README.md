@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Beware of people who tell you it can't be done. They want to remain on the market alone
+> *- Bangambiki Habyarimana*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### I have always observed that to succeed in the world one should appear like a fool but be wise.
 > *- Charles Montesquieu*
 >
