@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Victory stands on the back of sacrifice
+> *- Lexa*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Beware of people who tell you it can't be done. They want to remain on the market alone
 > *- Bangambiki Habyarimana*
 >
