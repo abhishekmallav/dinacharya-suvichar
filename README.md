@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You don't need to be a great singer to sing, but you have to practice singing to be a great singer.
+> *- Debasish Mridha*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### Victory stands on the back of sacrifice
 > *- Lexa*
 >
