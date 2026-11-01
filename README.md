@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When you take risks you learn that there will be times when you succeed and there will be times when you fail, and both are equally important.
+> *- Ellen DeGeneres*
+>
+> `[4]  ● ● ● ●`
+
+
+
 > ### You don't need to be a great singer to sing, but you have to practice singing to be a great singer.
 > *- Debasish Mridha*
 >
