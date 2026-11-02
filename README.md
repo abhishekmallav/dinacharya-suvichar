@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### When an impressive level skill is accompanied with consistent action on the right plan, success becomes the only possible destination.
+> *- *
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### When you take risks you learn that there will be times when you succeed and there will be times when you fail, and both are equally important.
 > *- Ellen DeGeneres*
 >
