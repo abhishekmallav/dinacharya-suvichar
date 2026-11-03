@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### You must learn from your past mistakes, but not lean on your past successes.
+> *- Denis Waitley*
+>
+> `[1]  ●`
+
+
+
 > ### When an impressive level skill is accompanied with consistent action on the right plan, success becomes the only possible destination.
 > *- *
 >
