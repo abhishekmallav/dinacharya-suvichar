@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Happiness is nothing but good health and freedom, and money is the single best way you can buy your freedom.
+> *- Scott Adams*
+>
+> `[9]  ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### You must learn from your past mistakes, but not lean on your past successes.
 > *- Denis Waitley*
 >
