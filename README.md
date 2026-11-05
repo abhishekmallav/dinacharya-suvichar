@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Become great by converting your time into quality product.
+> *- Sunday Adelaja*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Happiness is nothing but good health and freedom, and money is the single best way you can buy your freedom.
 > *- Scott Adams*
 >
