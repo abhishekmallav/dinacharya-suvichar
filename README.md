@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you do what you've always done, you'll get what you've always gotten.
+> *- Anthony Robbins*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Become great by converting your time into quality product.
 > *- Sunday Adelaja*
 >
