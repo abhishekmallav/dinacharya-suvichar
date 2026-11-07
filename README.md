@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### It is that little bit of extra attention that makes all the difference.
+> *- Debasish Mridha*
+>
+> `[2]  ● ●`
+
+
+
 > ### If you do what you've always done, you'll get what you've always gotten.
 > *- Anthony Robbins*
 >
