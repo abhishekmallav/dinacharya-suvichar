@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Just because you took longer than others, doesn’t mean you failed.
+> *- Daniel Friday Danzor*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### My dad always told me, 'I don't care what you do. Just aim to be the best at it. Even if it's the world's best window cleaner.'
 > *- Bruce Dickinson*
 >
