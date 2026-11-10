@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Stop making excuses of why you can’t or how hard it is and start making your life matter.
+> *- John Patrick Hickey*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### Just because you took longer than others, doesn’t mean you failed.
 > *- Daniel Friday Danzor*
 >
