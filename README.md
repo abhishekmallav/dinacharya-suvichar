@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The most important progress and success can't be seen. If you can validate yourself internally, then external validation becomes a byproduct.
+> *- Brittany Burgunder*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Stop making excuses of why you can’t or how hard it is and start making your life matter.
 > *- John Patrick Hickey*
 >
