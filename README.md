@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Failure becomes success when it finds positive minds; Tragedy becomes melody when it lands in positive hands. With positivity, possibility is assured!
+> *- Israelmore Ayivor*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### The most important progress and success can't be seen. If you can validate yourself internally, then external validation becomes a byproduct.
 > *- Brittany Burgunder*
 >
