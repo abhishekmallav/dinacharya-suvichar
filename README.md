@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Champions realise that defeat - and learning from it even more than from winning - is part of the path to mastery.
+> *- Rasheed Ogunlaru*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Failure becomes success when it finds positive minds; Tragedy becomes melody when it lands in positive hands. With positivity, possibility is assured!
 > *- Israelmore Ayivor*
 >
