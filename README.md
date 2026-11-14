@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Success is dangerous. One begins to copy oneself, and to copy oneself is more dangerous than to copy others. It leads to sterility.
+> *- Pablo Picasso*
+>
+> `[7]  ● ● ● ● ● ● ●`
+
+
+
 > ### Champions realise that defeat - and learning from it even more than from winning - is part of the path to mastery.
 > *- Rasheed Ogunlaru*
 >
