@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you see yourself as prosperous  you will be. If you see yourself as continually hard up  that is exactly what you will be.
+> *- Robert Collier*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Success is dangerous. One begins to copy oneself, and to copy oneself is more dangerous than to copy others. It leads to sterility.
 > *- Pablo Picasso*
 >
