@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### The joy of our success can only be validated by the memory of our origin.
+> *- Sergio Tinoco*
+>
+> `[8]  ● ● ● ● ● ● ● ●`
+
+
+
 > ### If you see yourself as prosperous  you will be. If you see yourself as continually hard up  that is exactly what you will be.
 > *- Robert Collier*
 >
