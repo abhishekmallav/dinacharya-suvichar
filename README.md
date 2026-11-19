@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### I made my name”. What does this mean? It means you were not concerned with conquering the world as much as you were dedicated with conquering yourself
+> *- Sunday Adelaja*
+>
+> `[1]  ●`
+
+
+
 > ### Honor lies in honest toil.
 > *- Grover Cleveland*
 >
