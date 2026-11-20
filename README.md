@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Consistency in your interest is the actual reason behind every success, and inconsistency is the major cause of failure
+> *- Syed Shan Asif*
+>
+> `[2]  ● ●`
+
+
+
 > ### I made my name”. What does this mean? It means you were not concerned with conquering the world as much as you were dedicated with conquering yourself
 > *- Sunday Adelaja*
 >
