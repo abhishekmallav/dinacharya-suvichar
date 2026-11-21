@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Fame always brings loneliness. Success is as ice cold and lonely as the North Pole.
+> *- Vicki Baum*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Consistency in your interest is the actual reason behind every success, and inconsistency is the major cause of failure
 > *- Syed Shan Asif*
 >
