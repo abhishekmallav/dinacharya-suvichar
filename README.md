@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Don't show your inferiority by climbing a stunted tree, show your superiority by climbing the longest and crooked one.
+> *- Michael Bassey Johnson*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Fame always brings loneliness. Success is as ice cold and lonely as the North Pole.
 > *- Vicki Baum*
 >
