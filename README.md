@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Passion is the mother of every greatness.
+> *- *
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Don't show your inferiority by climbing a stunted tree, show your superiority by climbing the longest and crooked one.
 > *- Michael Bassey Johnson*
 >
