@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Learning to open the taps of your imagination leads to abundance & success unlimited.
+> *- Auliq-Ice*
+>
+> `[6]  ● ● ● ● ● ●`
+
+
+
 > ### Passion is the mother of every greatness.
 > *- *
 >
