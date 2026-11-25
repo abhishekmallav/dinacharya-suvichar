@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Clear visions and positive goals, leads to positive actions and purposeful life.
+> *- Lailah Gifty Akita*
+>
+> `[3]  ● ● ●`
+
+
+
 > ### Learning to open the taps of your imagination leads to abundance & success unlimited.
 > *- Auliq-Ice*
 >
