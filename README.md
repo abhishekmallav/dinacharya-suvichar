@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### If you are faithful in little things, then you will be given a bigger commitment.
+> *- Sunday Adelaja*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### Clear visions and positive goals, leads to positive actions and purposeful life.
 > *- Lailah Gifty Akita*
 >
