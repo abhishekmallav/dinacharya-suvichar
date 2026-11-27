@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Remain aware of your weak points; not knowing or choosing to ignore them, means creating dangerous ‘blind-spots’ in the path to your success.
+> *- Archibald Marwizi*
+>
+> `[5]  ● ● ● ● ●`
+
+
+
 > ### If you are faithful in little things, then you will be given a bigger commitment.
 > *- Sunday Adelaja*
 >
