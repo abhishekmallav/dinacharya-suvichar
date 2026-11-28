@@ -5,6 +5,13 @@ Github Commit Automation via Github Actions. This repository is a template for a
 
 <!-- HEADER -->
 
+> ### Nothing Succeeds Like Success".
+> *- Behnam Rajabpoor*
+>
+> `[10]  ● ● ● ● ● ● ● ● ● ●`
+
+
+
 > ### Remain aware of your weak points; not knowing or choosing to ignore them, means creating dangerous ‘blind-spots’ in the path to your success.
 > *- Archibald Marwizi*
 >
